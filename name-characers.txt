@@ -5,9 +5,9 @@ Jenny - Дженні
 Sean - Шон
 Mac - Мак
 Mr. Pearson - Пан Пірстон
-Miss Grimshaw - Піні Ґрімшо
+Miss Grimshaw - Пані Ґрімшо
 Charles Smith - Чарльз Сміт
-Pinkertons - пінкертони
+Pinkertons - Пінкертони
 Jenny - Дженні
 Billy - Біллі
 Colm - Кольм
@@ -22,7 +22,7 @@ Karen - Карен
 O'Shea - О'ші
 Mecah Bell - Міка Белл
 Bill Williamson - Білл Віллямс
-Uncle - Дядечко
+Uncle - Дядечко - Дядько або Старий
 Javier Escuella - Хав'єр Ескуела
 Leopold Strauss - Леопольд Штраус
 Molly - Моллі
